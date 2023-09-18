@@ -1,0 +1,41 @@
+* {
+    border: 1px solid red;
+    background-color: antiquewhite;
+}
+
+h1{
+    margin: 10px;
+    padding: 3px;
+    background-color: rgb(252, 219, 180);
+    text-align: center;
+}
+
+h3{
+    margin: 15px;
+    background-color: rgb(252, 219, 180);
+}
+
+img {
+    width: auto;
+    height: 400px;
+    margin: auto;
+    display: block;
+    border: rgb(189, 188, 188) solid 3px;
+}
+
+p {
+    margin: 7px;
+
+}
+
+ul{
+    font-weight: bold;
+}
+
+ol {
+    font-style: italic;
+}
+
+li{
+    
+}
